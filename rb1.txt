@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        h3{font-size:50px;
+            color:blue;
+			border-bottom:10px;
+        }
+        #process{
+            color:green;
+        }
+        h4{
+            color:red;
+        }
+		.start{color:red;
+		font-style:italic;
+		}
+		#photo{width:30%;}
+		
+		}
+        </style> 
+ </head>
+<body>
+<h3 id="first">Tomato Bath</h3>
+           <img id="photo" src="http://chennai-telugu-people.28464.x6.nabble.com/file/n30/195.jpg" alt="tomotoe bath recipe"> 
+			<ul>
+            <li>Time: 30 min </li>
+            <li>serves: 2</li>
+        </ul>
+		<table>
+        <thead>
+              <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th></tr>
+            </thead>
+            <tbody>
+            <tr>
+            <td>bombay ravva</td>
+            <td>250 ml</td></tr>
+            <tr>
+<td>onion</td>
+<td>1</td>
+            </tr>
+            <tr>
+<td>tomotoe</td>
+<td>2</td>
+            </tr>
+			<tr>
+			<td>green Chillies</td>
+			<td>2</td></tr>
+			<tr>
+			<td>Cumin seeds</td>
+			<td>1 tsp</td>
+			</tr>
+<tr>
+<td>chana dal</td>
+<td>1 tsp</td>
+            </tr>	
+ <tr>
+<td>water</td>
+<td>750 ml</td>
+            </tr>	
+		<tr>	
+		<td>Salt</td>
+<td>as required</td>
+            </tr>
+            </tbody>
+        </table>
+	
+<h4>PROCEDURE<h/4>		
+<p id="process"><strong class="start">Step 1:</strong> Take a pan.add some oil,add cumin seeds and chana dal. </br>
+<strong class="start">Step 2:</strong> After they splutter add choppped onions,tomotoes and green chillies.<br>
+<strong class="start">Step 3:</strong> After they get mushy,add ravva to it and roast it.</br>
+<strong class="start">Step 4:</strong> In separate pan boil water and then add to this mixture.<br>  
+<strong class="start">Step 5:</strong> Mix it well without any lumps.<br> 
+<strong class="start">Step 6:</strong> Add salt and curry leaves as required.<br>  
+<strong class="start">Step 7:</strong> Tasty tomotoe bath is ready to serve.<br></p>
+</body>
+</html>
