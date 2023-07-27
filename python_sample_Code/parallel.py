@@ -13,3 +13,15 @@ def parallel_function():
 # invoke the above function
 parallel_function()
 
+
+# write unit test for the above program
+import unittest
+from unittest.mock import patch
+from parallel import print_hello
+
+class TestParallel(unittest.TestCase):
+    def test_print_hello(self):
+        with patch('parallel.print_hello') as mocked_hello:
+            print_hello(1)
+            mocked_hello.assert_called_with(1)
+

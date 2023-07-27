@@ -22,6 +22,7 @@ It was giving me atleast 10 alternative suggestions
     -> Wrote code to read json file. Reading didnt work in current directory
     -> Prompt engineering is very important to efficiently use copilot. We will feel it is not helping that much if we dont know Prompt engineering
     -> Didnt understand the json structure. I had to explain how to parse the json file
+    -> Unit Test was able to understand json structure and give unit tests accordingly
 
 -> Write code to call a function 50 times parallely
 !! 
