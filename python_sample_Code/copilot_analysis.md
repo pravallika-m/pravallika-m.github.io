@@ -18,6 +18,10 @@ It was giving me atleast 10 alternative suggestions
     -> 4% Education Tax on the Previous Salary
     -> Deduction from PF are tax exempted
 -> Write code to read employee data from json file using restapi. Write unit tests, integration tests
+    -> User experience is not that great. We dont know how suggestions will come. copilot x has a chatbox which has better user experience
+    -> Wrote code to read json file. Reading didnt work in current directory
+    -> Prompt engineering is very important to efficiently use copilot. We will feel it is not helping that much if we dont know Prompt engineering
+    -> Didnt understand the json structure. I had to explain how to parse the json file
 
 -> Write code to call a function 50 times parallely
 !! 
