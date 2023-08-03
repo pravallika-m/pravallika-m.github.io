@@ -24,6 +24,10 @@ It was giving me atleast 10 alternative suggestions
     -> Didnt understand the json structure. I had to explain how to parse the json file
     -> Unit Test was able to understand json structure and give unit tests accordingly
 
+-> Write code to create rest api for crud operations of employee resource by referring schema from sample_employee.json
+    -> Created proper rest api with crud endpoints
+    -> It was even giving recommendations for dockerfile, jenkinsfile, swagger, kubernetes resources, helmcharts, cloudformation, 
+
 -> Write code to call a function 50 times parallely
 !! 
 -> 
